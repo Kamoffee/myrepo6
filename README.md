@@ -1,1 +1,1 @@
-# myrepo6
+# this is a mean and standard deviation exercice.
